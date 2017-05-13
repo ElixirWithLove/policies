@@ -61,11 +61,11 @@ If you are subject to or witness unacceptable behavior, or have any other concer
 
 Additionally, community organizers are available to help community members engage with local law enforcement or to otherwise help those experiencing unacceptable behavior feel safe. In the context of in-person events, organizers will also provide escorts as desired by the person experiencing distress.
 
+Visit our Reporting Guidelines page for more information.
+
 ## 8. Addressing Grievances
 
 If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify Elixir with Love with a concise description of your grievance. Your grievance will be handled in accordance with our existing governing policies.
-
-[NOTE: Every organization's governing policies should dictate how you handle warnings and expulsions of community members. It is strongly recommended that you mention those policies here or in Section 7 and that you include a mechanism for addressing grievances.]
 
 ## 9. Scope
 
