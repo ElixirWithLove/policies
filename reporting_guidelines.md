@@ -47,7 +47,6 @@ Once we've determined our final action, we'll contact the original reporter to l
 
 Only permanent resolutions (such as bans) may be appealed. To appeal a decision, contact [help@elixir-with-love.com](mailto:help@elixir-with-love.com) with your appeal and we will will review the case.
 
-*Elixir with Love* Reporting Guidelines are a derivative of the [Stumptown Syndicate's](http://stumptownsyndicate.org), used under a [Creative Commons Attribution-ShareAlike license](http://creativecommons.org/licenses/by-sa/3.0/). 
+*Elixir with Love* Reporting Guidelines are a derivative of the [Stumptown Syndicate's](http://stumptownsyndicate.org) and [Django Software Foundation](https://www.djangoproject.com/conduct/reporting/) guidelines, used under a [Creative Commons Attribution-ShareAlike license](http://creativecommons.org/licenses/by-sa/3.0/). 
 
-_Revision 1.0, DRAFT, proposed June 2014_
-_Reporting Guidelines derived from those of the [Django Software Foundation](https://www.djangoproject.com/conduct/reporting/)._
+_Initial EWL Revision 1.0 posted May 13th, 2017_
