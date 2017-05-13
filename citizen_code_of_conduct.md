@@ -80,3 +80,5 @@ Reach us at [help@elixir-with-love.com](mailto:help@elixir-with-love.com) and/or
 The *Elixir with Love* Citizen Code of Conduct is a derivative of the [Stumptown Syndicate](http://stumptownsyndicate.org) Citizen Code of Conduct, used under a [Creative Commons Attribution-ShareAlike license](http://creativecommons.org/licenses/by-sa/3.0/). 
 
 Portions of text derived from the [Django Code of Conduct](https://www.djangoproject.com/conduct/) and the [Geek Feminism Anti-Harassment Policy](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy).
+
+_Initial EWL Revision 1.0 posted May 13th, 2017_
